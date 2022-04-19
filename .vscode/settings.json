@@ -3,5 +3,7 @@
     "python.formatting.provider": "black",
     "python.linting.enabled": false,
     "git.ignoreLimitWarning": true,
+    "git.enableCommitSigning": true,
+    // Extensions
     "cSpell.language": "fr",
 }
