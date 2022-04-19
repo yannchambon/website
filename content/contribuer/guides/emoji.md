@@ -1,11 +1,25 @@
 ---
 title: Utiliser des emojis
-authors: ["Geotribu"]
-categories: ["article", "contribution", "tutoriel"]
+authors:
+    - Geotribu
+categories:
+    - article
+    - contribution
+    - tutoriel
 date: 2020-07-20 10:20
 description: "Guide de contribution à Geotribu : comment insérer des émojis dans un contenu en Markdown."
 image: "https://blog.emojipedia.org/content/images/size/w2000/2020/02/Emojipedia-Header-Image-JoyPixels-5.5.jpg"
-tags: geotribu,contribuer,media,emoji,emoticone,intégration,tutoriel
+tags:
+    - contribuer
+    - media
+    - emoji
+    - emoticone
+    - intégration
+    - Markdown
+    - tutoriel
+# theme customizations
+search:
+  exclude: true
 ---
 
 # Utiliser des émojis
@@ -39,5 +53,6 @@ Elle est semblable à la plupart des outils de discussion : `:emoji_code:`.
 
 :warning: La liste étant très grande, cela peut-être très long à afficher :warning:
 
-[Consulter le tableau des codes de chaque emoji et leur aperçu :fontawesome-regular-eye:](/toc_nav_ignored/emojis_joypixels_preview/){: .md-button }
+[Tableau des codes de chaque emoji et leur aperçu :fontawesome-regular-eye:](/toc_nav_ignored/emojis_joypixels_preview/){: .md-button }
+[Rechercher dans toutes les icônes (émojis inclus) :fontawesome-solid-magnifying-glass-location:](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search){: .md-button }
 {: align=middle }

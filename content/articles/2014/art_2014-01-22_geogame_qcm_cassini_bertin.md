@@ -1,19 +1,22 @@
 ---
 title: "QCM de Cassini à Bertin"
-authors: ["Jérémie ORY"]
-categories: ["article"]
+authors:
+    - Jérémie ORY
+categories:
+    - article
 date: "2014-01-22 10:20"
 description: "Géogame de Geotribu : QCM (questions à choix multiples) sur l'histoire contemporaine française de la cartographie. De Cassini à Jacques Bertin, dix questions pour tester vos connaissances."
 image: "https://cdn.geotribu.fr/img/geogames/geogame1_capture.png"
-tags: "geogame,qcm,histoire,cartographie"
-
+tags:
+    - cartographie
+    - Géogame
+    - Histoire
+    - QCM
 ---
 
 # QCM Histoire de la cartographie : de Cassini à Bertin
 
 :calendar: Date de publication initiale : 22 janvier 2014
-
-**Mots-clés :** Géogame | QCM | histoire | cartographie | Bertin | Cassini
 
 Cette semaine, nous vous proposons un deuxième Geogame, "questions choix multiples", sur l'histoire contemporaine française de la cartographie. De Cassini à Jacques Bertin, dix questions pour tester vos connaissances.
 
@@ -23,13 +26,13 @@ Cette semaine, nous vous proposons un deuxième Geogame, "questions choix multip
 
 > Source : Cassini de Thury, "Projet et acte d'association, pour l'entreprise d'une Carte générale de France par M. Cassini de Thury", Description géométrique de la France, 1753, Paris, imprimerie J-Ch Desaint, p194-195
 
-[Ouvrir le jeu en grand :fontawesome-solid-external-link-alt:](https://geotribu.github.io/geogames/quatrieme_jeu){: .md-button }
+[Ouvrir le jeu en grand :fontawesome-solid-up-right-from-square:](https://geotribu.github.io/geogames/quatrieme_jeu){: .md-button }
 {: align=middle }
 
 <iframe name="geogame4" width="100%" height="500px" src="https://geotribu.github.io/geogames/quatrieme_jeu" frameborder="1"></iframe>
 
 ----
 
-## Auteur
+## Auteur {: data-search-exclude }
 
 --8<-- "content/team/jory.md"

@@ -2,7 +2,7 @@ name: "🎳 Markdown Linter"
 
 # Trigger
 on:
-  pull_request_target:
+  pull_request:
     branches: [master]
     paths:
       - "content/**/*.md"
@@ -11,22 +11,25 @@ jobs:
   lint-markdown-review:
     name: "👓 Vérification de la syntaxe"
     runs-on: ubuntu-latest
+    if: ${{ github.repository_owner == 'geotribu' }}
+
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: markdownlint-github-check
-        uses: reviewdog/action-markdownlint@v0.2.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          reporter: github-pr-check
-          markdownlint_flags: 'content/**/202*/*.md'
+      # - name: markdownlint-github-check
+      #   uses: reviewdog/action-markdownlint@v0.5
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     filter_mode: added
+      #     reporter: github-pr-check
+      #     markdownlint_flags: 'content/**/202*.md'
 
       - name: markdownlint-github-pr-review
-        uses: reviewdog/action-markdownlint@v0.2.0
+        uses: reviewdog/action-markdownlint@v0.5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
-          # filter_mode: diff_context
+          filter_mode: diff_context
           reporter: github-pr-review
-          markdownlint_flags: 'content/**/202*/*.md'
+          markdownlint_flags: "-c '.markdownlint.json' -i '**/template_*.md' 'content/**/202*.md'"

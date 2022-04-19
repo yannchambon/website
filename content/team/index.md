@@ -1,11 +1,16 @@
 ---
 title: "A propos"
-authors: ["Geotribu"]
-categories: ["meta"]
+authors:
+    - Geotribu
+categories:
+    - Geotribu
 date: "2021-05-20 10:20"
 description: "Geotribu, c'est quoi ? Qui se cache dans le géotipi ? Présentation et trombinoscope."
 image: "https://cdn.geotribu.fr/img/internal/charte/geotribu_banner_600x300.png"
-tags: "GeoTribu,à propos,about,présentation"
+tags:
+    - à propos
+    - Geotribu
+    - présentation
 ---
 
 # Geotribu, c'est quoi ?
@@ -21,7 +26,7 @@ C'est donc un regroupement spontané de personnes autour de leur intérêt pour 
 
 - face, le libre : une philosophie en cohérence naturelle avec la démarche de partage inhérente au site (avez-vous noté le [copyleft](https://fr.wikipedia.org/wiki/Copyleft) qui orne le pied de page ?). Au-delà de nos propres convictions que le libre, l'_open_ et les communs sont des leviers vertueux, il ne s'agit pas de dire que nous n'utilisons jamais de logiciels propriétaires ou que nous les dénigrons ; mais nous considérons que les éditeurs de briques propriétaires ont généralement les moyens d'assurer leur propre publicité.
 
-[Article complet sur la petite histoire de Geotribu :fontawesome-solid-history:](/articles/2020/2020-08-31_geotribu_histoire/){: .md-button }
+[Article complet sur la petite histoire de Geotribu :fontawesome-solid-clock-rotate-left:](/articles/2020/2020-08-31_geotribu_histoire/){: .md-button }
 {: align=middle }
 
 [Florian](/team/fbor/) a présenté Geotribu dans [l'émission Twitch Les Reclus aux Confins](https://www.twitch.tv/confins), début 2021 :
@@ -30,7 +35,7 @@ C'est donc un regroupement spontané de personnes autour de leur intérêt pour 
 
 ## Geotribu c'est qui ?
 
-[Page des contributeur/ices :fontawesome-solid-people-carry:](/team/contributors/){: .md-button }
+[Page des contributeur/ices :fontawesome-solid-people-carry-box:](/team/contributors/){: .md-button }
 {: align=middle }
 
 <!-- Hyperlinks reference -->

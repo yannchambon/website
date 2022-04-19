@@ -1,19 +1,29 @@
 ---
 title: "Automatiser la publication et la mise à jour de données de PostgreSQL vers Data.gouv.fr"
-authors: ["Florian Boret"]
-categories: ["article", "tutoriel"]
+authors:
+    - Florian BORET
+categories:
+    - article
+    - tutoriel
 date: 2021-08-31 14:20
 description: "Automatiser la publication et la mise à jour de données entre PostgreSQL et Data.gouv.fr en utilisant OGR et l'API data.gouv."
 image: "https://cdn.geotribu.fr/img/articles-blog-rdp/articles/pg2datagouv/pg2datagouv_illustration.png"
 license: default
-tags: PostgreSQL,data.gouv.fr,data,open data,Bash,ogr,api,jq,cURL
+tags:
+    - API
+    - Bash
+    - cURL
+    - data
+    - data.gouv.fr
+    - jq
+    - PostgreSQL
+    - OGR
+    - open data
 ---
 
 # Automatiser la publication et la mise à jour de données de PostgreSQL vers Data.gouv.fr
 
 :calendar: Date de publication initiale : 31 Aout 2021
-
-**Mots-clés :** PostgreSQL | data.gouv.fr | Open Data | Bash | API | OGR | jq | cURL
 
 ## Prérequis
 
@@ -44,7 +54,7 @@ Avant de démarrer, voici une représentation schématique du fonctionnement de 
 graph TD;
     A{pg2datagouv.sh} --> G(config.env);
     G --> A;
-    A --> D[dechets_composteurs.sh] --> |Extraction<br>avec OGR| U(composteurs.shp);
+    A --> D[dechets_composteurs.sh] --> |Extraction avec OGR| U(composteurs.shp);
     D --> G;
     G --> D;
     U --> H{API};
@@ -259,7 +269,7 @@ La solution que je vous propose nécessite un peu de temps de mise en oeuvre et 
 
 ----
 
-## Auteur
+## Auteur {: data-search-exclude }
 
 --8<-- "content/team/fbor.md"
 

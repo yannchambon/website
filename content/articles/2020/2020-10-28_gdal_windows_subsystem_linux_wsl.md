@@ -1,18 +1,23 @@
 ---
 title: "Utiliser GDAL sous Windows avec WSL (Windows Subsystem for Linux)"
-authors: ["Julien MOURA"]
-categories: ["article", "tutoriel"]
+authors:
+    - Julien MOURA
+categories:
+    - article
+    - tutoriel
 date: "2020-10-28 10:20"
 description: "WSL ? Le Windows Subsystem for Linux permet depuis quelques années déjà de faire tourner un terminal bash sous Windows et ainsi bénéficier de l'usage des programmes populaires de l'écosystème Linux. Dans ce tutoriel, nous verrons comment installer et configurer WSL sur Windows 10, puis nous verrons les possibilités que cela ouvre en installant et utilisant GDAL dans le sous-système Linux."
 image: "https://cdn.geotribu.fr/img/tuto/gdal_wsl/ubuntu_wsl_landing_page.png"
-tags: "gdal,ogr,windows,wsl"
+tags:
+    - GDAL
+    - OGR
+    - Windows
+    - WSL
 ---
 
 # Utiliser GDAL sur Windows via le sous-système pour Linux
 
 :calendar: Date de publication initiale : 28 octobre 2020
-
-**Mots-clés :** GDAL | OGR | Windows | WSL | Linux
 
 Pré-requis :
 
@@ -50,11 +55,16 @@ Il existe actuellement deux versions différentes du sous-système Windows pour 
 
 On ouvre son terminal Powershell :
 
-```powershell hl_lines="3"
-PS C:\Users\geojulien> systeminfo | findstr /B /C:"OS Name" /C:"OS Version" /C:"System Type"
-OS Name:                   Microsoft Windows 10 Pro
-OS Version:                10.0.19041 N/A Build 19041
-System Type:               x64-based PC
+```powershell
+[System.Environment]::OSVersion.Version
+```
+
+On obtient un tableau :
+
+```powershell
+Major  Minor  Build  Revision
+-----  -----  -----  --------
+10     0      19044  0
 ```
 
 Si le numéro du build est supérieur ou égal à `18362` (ou `19041` pour les socles ARM), c'est bon. Sinon, revenez après avoir fait vos mises à jour :wave:.
@@ -79,6 +89,14 @@ Avec WSL, les choses se compliquent car il devient nécessaire de pouvoir switch
 WSL faisant partie du bouquet de fonctionnalités avancées, il faut donc un accès administrateur pour l'activer (par la suite, ce sera ok pour un utilisateur de base) :
 
 1. Activer WSL et la VM
+
+    Si votre numéro de build >= 19041 :
+
+    ```powershell
+    wsl --install
+    ```
+
+    Sinon, à l'ancienne :
 
     ```powershell
     # activer la fonctionnalité
@@ -145,16 +163,16 @@ Pour en sortir, il suffit de taper `exit`.
 
 Nous voilà enfin dans notre environnement bash chéri :heart_eyes: !
 
-Rien que du très classique, donc d'abord, on définit la version de GDAL que l'on souhaite :
+Rien que du très classique, donc d'abord, on définit la version de GDAL que l'on souhaite. Dans mon cas, c'est donc :
 
 ```bash
 export GDAL_VERSION=3.1.*
 ```
 
-Ensuite, on ajoute le dépôt bien connu d'ubuntugis :
+Ensuite, on ajoute le dépôt bien connu d'ubuntugis (privilégier le stable si la version dont vous avez besoin s'y trouve) :
 
 ```bash
-sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable && sudo apt-get update
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable && sudo apt update
 ```
 
 Puis, on installe GDAL :

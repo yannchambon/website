@@ -1,19 +1,26 @@
 ---
 title: "Plugin QGIS : utiliser les icônes intégrées"
-authors: ["Julien MOURA"]
-categories: ["article", "tutoriel"]
+authors:
+    - Julien MOURA
+categories:
+    - article
+    - tutoriel
 date: "2021-01-19 14:20"
 description: "Pour le développement d'un plugin pour QGIS, soigner l'interface graphique peut être fastidieux, notamment de concevoir ou trouver les éléments graphiques. Pourquoi ne pas utiliser les icônes déjà embarquées dans QGIS ?."
 image: "https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_file-explorer.png"
 license: beerware
-tags: "QGIS,plugin,PyQt5,icônes,interface graphique"
+tags:
+    - icônes
+    - interface graphique
+    - plugin
+    - PyQGIS
+    - PyQt5
+    - QGIS
 ---
 
 # Utiliser les icônes intégrées de QGIS pour égayer ses plugins
 
 :calendar: Date de publication initiale : 19 janvier 2021
-
-**Mots-clés :** QGIS | PyQGIS | développement | plugin | interface graphique
 
 Pré-requis :
 
@@ -72,12 +79,12 @@ C'est déjà plus sympa et intégré non ?
 
 Maintenant, vous n'avez plus aucune excuse pour ne pas mettre de belles icônes dans vos fenêtres et menus ! Avec modération bien sûr :wink:. Merci à [Etienne](https://twitter.com/etrimaille/) pour le rappel sur [_QgsApplication.iconPath_](https://qgis.org/api/classQgsApplication.html#aeb52c5382784b9adbdf0e0328a7ea2ad) dont "l'avantage, c'est que ca gère le thème de QGIS (Dark, Grey or Normal)".
 
-[Suggestion : prévisualiser les icônes intégrées :fontawesome-solid-step-forward:](/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/){: .md-button }
+[Suggestion : prévisualiser les icônes intégrées :fontawesome-solid-forward:](/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/){: .md-button }
 {: align=middle }
 
 ----
 
-## Auteur
+## Auteur {: data-search-exclude }
 
 --8<-- "content/team/jmou.md"
 

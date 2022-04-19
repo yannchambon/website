@@ -1,19 +1,26 @@
 ---
 title: "Utiliser GDAL pour traiter les fichiers de la Base Adresse Nationale et Locales"
-authors: ["Julien MOURA"]
-categories: ["article", "tutoriel"]
+authors:
+    - Julien MOURA
+categories:
+    - article
+    - tutoriel
 date: "2021-09-07 10:20"
 description: "Travailler les données de la Base Adresse Nationale (BAN) avec GDAL/OGR, en tirant parti de l'abstraction sur les systèmes de fichiers virtuels (VSI) et de la lecture (VRT)."
 image: "https://cdn.geotribu.fr/img/articles-blog-rdp/articles/gdal_bal/gdal_bal.png"
 license: beerware
-tags: "GDAL,OGR,CSV,Adresse,BAL,BAN"
+tags:
+    - adresse
+    - BAL
+    - BAN
+    - CSV
+    - GDAL
+    - OGR
 ---
 
 # Utiliser GDAL VSI et VRT pour intégrer les fichiers BAN/BAL
 
 :calendar: Date de publication initiale : 7 septembre 2021
-
-**Mots-clés :** Adresse | BAL | BAN | CSV | GDAL
 
 Prérequis :
 
@@ -443,12 +450,12 @@ Par ailleurs, n'étant pas non plus un spécialiste des données d'adressage, si
 
 Enfin, si la ligne de commande vous effraie, il y a aussi des outils disponibles en ligne bien pratiques, tels CSVT Generator :
 
-[CSVT Generator :fontawesome-solid-tools:](https://loicbcn.github.io/csvtgenerator/){: .md-button }
+[CSVT Generator :fontawesome-solid-toolbox:](https://loicbcn.github.io/csvtgenerator/){: .md-button }
 {: align=middle }
 
 ----
 
-## Auteur
+## Auteur {: data-search-exclude }
 
 --8<-- "content/team/jmou.md"
 

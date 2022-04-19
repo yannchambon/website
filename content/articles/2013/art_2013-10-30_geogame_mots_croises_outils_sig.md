@@ -1,19 +1,20 @@
 ---
 title: "Mots-croisés avec les outils SIG"
-authors: ["Jérémie ORY"]
-categories: ["article"]
+authors:
+    - Jérémie ORY
+categories:
+    - article
 date: "2013-10-30 10:20"
 description: "Premier géogame proposé par Geotribu : des mots-croisés sur les outils SIG. Bon jeu !"
 image: "https://cdn.geotribu.fr/img/geogames/geogame1_capture.png"
-tags: "geogame,mots-croisés"
-
+tags:
+    - Géogame
+    - mots-croisés
 ---
 
 # Mots croisés : outils SIG
 
 :calendar: Date de publication initiale : 30 octobre 2013
-
-**Mots-clés :** Géogame | mots-croisés
 
 L'équipe de GeoTribu est super fière de vous présenter sa nouvelle rubrique "Geogame" !
 
@@ -21,13 +22,13 @@ Régulièrement, nous vous proposerons de tester vos connaissances tout en s'amu
 
 Bonne chance !
 
-[Ouvrir le jeu en grand :fontawesome-solid-external-link-alt:](https://geotribu.github.io/geogames/premier_jeu){: .md-button }
+[Ouvrir le jeu en grand :fontawesome-solid-up-right-from-square:](https://geotribu.github.io/geogames/premier_jeu){: .md-button }
 {: align=middle }
 
 <iframe name="geogame1" width="100%" height="600px" src="https://geotribu.github.io/geogames/premier_jeu" frameborder="1"></iframe>
 
 ----
 
-## Auteur
+## Auteur {: data-search-exclude }
 
 --8<-- "content/team/jory.md"

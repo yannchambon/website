@@ -1,18 +1,22 @@
 ---
 title: "Privé de désert : le géogame inédit"
-authors: ["Jérémie ORY", "Julien MOURA"]
-categories: ["article"]
+authors:
+    - Jérémie ORY
+    - Julien MOURA
+categories:
+    - article
 date: "2020-10-22 10:20"
 description: "En restaurant les géogames de Geotribu, des mini-jeux sur la culture générale en cartographie et géomatique, j'ai trouvé un jeu qui n'avait jamais été publié qui consiste à associer les déserts à leurs continents. Saurez-vous ne pas finir privé/e de désert ?"
 image: "https://cdn.geotribu.fr/img/geogames/globe_jeu_video_manette.png"
-tags: "geogame,déserts,continents"
+tags:
+    - continents
+    - déserts
+    - Géogame
 ---
 
 # A chaque continent, son désert
 
 :calendar: Date de publication initiale : 22 octobre 2020
-
-**Mots-clés :** Géogame | désert | jeu
 
 ## Introduction
 
@@ -24,7 +28,7 @@ Au passage, je suis tombé sur un sixième jeu qui n'avait pas été publié à 
 
 Bon jeu et bonne nostalgie :smile:.
 
-[Ouvrir le jeu en grand :fontawesome-solid-external-link-alt:](https://geotribu.github.io/geogames/sixieme_jeu){: .md-button }
+[Ouvrir le jeu en grand :fontawesome-solid-up-right-from-square:](https://geotribu.github.io/geogames/sixieme_jeu){: .md-button }
 {: align=middle }
 
 <iframe name="geogame6" width="100%" height="500px" src="https://geotribu.github.io/geogames/sixieme_jeu" frameborder="1"></iframe>

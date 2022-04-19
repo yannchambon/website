@@ -1,18 +1,23 @@
 ---
 title: "Le web-scraping avec Scrapy"
-authors: ["Julien MOURA"]
-categories: ["article", "tutoriel"]
+authors:
+    - Julien MOURA
+categories:
+    - article
+    - tutoriel
 date: "2020-09-08 10:20"
 description: "Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l'Internet Archive."
 image : "https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png"
-tags: "Scrapy,Python,geotribu,histoire"
+tags:
+    - Geotribu
+    - Histoire
+    - Python
+    - Scrapy
 ---
 
 # Récupérer les anciens contenus : le web-scraping à la rescousse
 
 :calendar: Date de publication initiale : 7 septembre 2020
-
-**Mots-clés :** Geotribu | histoire | Scrapy | Python | web-scraping
 
 ## Introduction
 
@@ -180,16 +185,14 @@ Ensuite, cela fatigue les serveurs de l'[Internet Archive] : c'est pas très fai
 
 Maintenant on sait comment moissonner un site web, en l'occurence l'ancien Geotribu. Dans le prochain article, on verra quoi faire de tous cette soupe de HTML/CSS/Javascript/Images.
 
-[Suite : convertir des fichiers HTML en Markdown :fontawesome-solid-step-forward:](../2020-09-11_html2markdown){: .md-button }
+[Suite : convertir des fichiers HTML en Markdown :fontawesome-solid-forward:](../2020-09-11_html2markdown){: .md-button }
 {: align=middle }
 
 ----
 
-## Auteur
+## Auteur {: data-search-exclude }
 
---8<--
-content/team/jmou.md
---8<--
+--8<-- "content/team/jmou.md"
 
 <!-- Hyperlinks reference -->
 [Scrapy]: https://scrapy.org/

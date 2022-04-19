@@ -1,19 +1,20 @@
 ---
 title: "Mise à jour estivale 2021"
-authors: ["Geotribu"]
-categories: ["article"]
+authors:
+    - Geotribu
+categories:
+    - article
 date: "2021-07-16 15:20"
 description: "Ce vendredi, pas de revue de presse mais une revue des nouveautés du site récentes : licences, page d'accueil et sponsoring à venir."
 image: "https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_homepage_dark_2021-07-16.png"
 license: default
-tags: "Geotribu"
+tags:
+    - Geotribu
 ---
 
 # Geotribu : collection été 2021
 
 :calendar: Date de publication initiale : 16 juillet 2021
-
-**Mots-clés :** Geotribu
 
 ## Introduction
 
@@ -35,7 +36,7 @@ Lors de la renaissance du site en avril 2020 (voir [l'article sur l'histoire de 
 L'avantage est que nous connaissions l'outil (pour l'avoir utilisé à Isogeo), le langage sur lequel il est basé (Python), la syntaxe Markdown et que le rendu fait la part belle au contenu.  
 L'inconvénient c'est que, comme son nom l'indique, c'est pensé pour accueillir de la documentation technique. Un type de contenu pour lequel on investit pas vraiment dans l'esthétique. De notre point de vue, il est alors plus important que Geotribu soit un site simple, efficace et qui mette en avant le contenu plutôt que joli. Notez que l'un n'empeche pas l'autre, mais dans le bénévolat plus qu'ailleurs, les choix sont affaire de moyens et de priorités.
 
-Alors maintenant que nous avons du contenu et tout ce qu'il faut pour le rédiger correctement (voir [le guide de contribution](/contribuer/workflow_article/)), il était temps de prendre le pot de peinture, les pinceaux et de mettre un coup de polish ! Nous voici donc avec une nouvelle page d'accueil qui était clairement le parent pauvre du site. Un petit avant/après pour se souvenir :
+Alors maintenant que nous avons du contenu et tout ce qu'il faut pour le rédiger correctement (voir [le guide de contribution](/contribuer/articles/workflow/)), il était temps de prendre le pot de peinture, les pinceaux et de mettre un coup de polish ! Nous voici donc avec une nouvelle page d'accueil qui était clairement le parent pauvre du site. Un petit avant/après pour se souvenir :
 
 [![Capture écran Geotribu juin 2021](https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_2021-06.png "Ancienne page d'accueil de Geotribu"){: loading=lazy width=350 }](https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_2021-06.png){: data-mediabox="lightbox-gallery" data-title="Ancienne page d'accueil de Geotribu"} [![Capture écran Geotribu mi-juillet 2021](https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_2021-07-16.png "Nouvelle page d'accueil de Geotribu"){: loading=lazy width=350 }](https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_2021-07-16.png){: data-mediabox="lightbox-gallery" data-title="Nouvelle page d'accueil de Geotribu"}
 {: align=middle }
@@ -55,7 +56,7 @@ Quand on publie, il est important d'indiquer comment le contenu peut être éven
 
 Si vous avez déjà publié sur Geotribu et que vous souhaitez ne pas utiliser la licence par défaut, il vous revient de mettre à jour vos contenus :wink: :
 
-[Comment choisir une licence :fontawesome-solid-balance-scale-right:](/contribuer/guides/licensing/){: .md-button }
+[Comment choisir une licence :fontawesome-solid-scale-balanced:](/contribuer/guides/licensing/){: .md-button }
 {: align=middle }
 
 ----
@@ -72,10 +73,8 @@ Nous vous en reparlerons bientôt mais d'ici là, n'hésitez pas à nous donner 
 
 ----
 
-## Auteur
+## Auteur {: data-search-exclude }
 
 --8<-- "content/toc_nav_ignored/snippets/authors/geotribu.md"
 
 {% include "licenses/default.md" %}
-
-<!-- Hyperlinks reference -->

@@ -2,7 +2,7 @@
 
 MERCI DE SUPPRIMER OU ADAPTER POUR LES AUTRES TYPES DE CONTENUS (principe du `benevol time fair-use`).
 
-Pour les articles, voir : https://static.geotribu.fr/contribuer/workflow_article/#soumettre
+Pour les articles, voir : https://static.geotribu.fr/contribuer/articles/workflow/#soumettre
 
  -->
 
@@ -36,7 +36,7 @@ Modèle de news ici : https://github.com/geotribu/website/blob/master/content/rd
 
 Exemple de [tweet](https://twitter.com/geotribu/status/1364625815099613185) :
 
-![tweet geordp](https://cdn.geotribu.fr/img/internal/contribution/geotribu_rdp_tweet_incitation.png "exemple de tweet geordp")
+![tweet geordp](https://cdn.geotribu.fr/img/internal/contribution/geotribu_rdp_tweet_incitation.png)
 
 ----
 
