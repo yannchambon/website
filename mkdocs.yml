@@ -156,6 +156,8 @@ extra:
   comments_url: https://comments.geotribu.fr # isso url
   manifest: "manifest.webmanifest" # PWA declaration
   consent:
+    cookies:
+      analytics: Matomo
     title: Consentement 🍪
     description: >
       Nous utilisons des cookies pour le goûter mais aussi pour vous proposer
