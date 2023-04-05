@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="" type="image/gif" sizes="512x512">
+    <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.14 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Geoawesomeness</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Geoawesomeness" />
+	<meta property="og:site_name" content="Geoawesomeness" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://geoawesomeness.com/#website","url":"https://geoawesomeness.com/","name":"Geoawesomeness","description":"Blog &amp; Geospatial Community Platform","publisher":{"@id":"https://geoawesomeness.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://geoawesomeness.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://geoawesomeness.com/#organization","name":"Geoawesoemenss","url":"https://geoawesomeness.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://geoawesomeness.com/#/schema/logo/image/","url":"https://geoawesomeness.com/wp-content/uploads/2022/01/logo-mobile.svg","contentUrl":"https://geoawesomeness.com/wp-content/uploads/2022/01/logo-mobile.svg","width":78,"height":33,"caption":"Geoawesoemenss"},"image":{"@id":"https://geoawesomeness.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/GeoAwesomeness","https://twitter.com/geoawesomeness"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.stripe.com' />
+<link rel='dns-prefetch' href='//checkout.stripe.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='http://geoawesomeness.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stripe-checkout-button-css' href='https://checkout.stripe.com/v3/checkout/button.css' type='text/css' media='all' />
+<link rel='stylesheet' id='simpay-public-css' href='http://geoawesomeness.com/wp-content/plugins/stripe/includes/core/assets/css/simpay-public.min.css?ver=4.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='http://geoawesomeness.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=6.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css' href='http://geoawesomeness.com/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='app-style-css' href='http://geoawesomeness.com/wp-content/themes/geoawesomeness//public/dist/css/front.css?ver=1674920243' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/11.7.1/css/jetpack.css' type='text/css' media='all' />
+<meta name="viewport" content="width=device-width, minimum-scale=1" />	<style>img#wpstats{display:none}</style>
+		<style>.cmplz-hidden{display:none!important;}</style><link rel="icon" href="https://geoawesomeness.com/wp-content/uploads/2022/04/cropped-geo-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://geoawesomeness.com/wp-content/uploads/2022/04/cropped-geo-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://geoawesomeness.com/wp-content/uploads/2022/04/cropped-geo-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://geoawesomeness.com/wp-content/uploads/2022/04/cropped-geo-logo-270x270.png" />
+
+</head>
+<body data-cmplz=1 class="error404">
+
+<main class="main">
+    <div class="navigation__sidebar">
+    <nav class="navigation">
+        <a class="navigation__brand" href="https://geoawesomeness.com">
+            <img class="navigation__logo" src="https://geoawesomeness.com/wp-content/uploads/2022/02/Logo.svg" alt="Logo"/>
+        </a>
+        <div class="navigation__header">
+            <a class="navigation__brand--mobile" href="https://geoawesomeness.com">
+                <img src="https://geoawesomeness.com/wp-content/uploads/2022/01/logo-mobile.svg" class="navigation__logo--mobile" alt="logo-mobile"/>
+            </a>
+            <div class="navigation__header-btn jsHamburger">
+                <span class="navigation__header-line navigation__header-line--first"></span>
+                <span class="navigation__header-line navigation__header-line--second"></span>
+                <span class="navigation__header-line navigation__header-line--third"></span>
+            </div>
+        </div>
+        <div class="navigation__content jsNavigation">
+            <div class="navigation__container ">
+                <button class="navigation__search-mobile jsShowSearchModal">
+                    <svg width="17" height="17" viewbox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="7" cy="7" r="6" stroke="#7D8595" stroke-width="2"/>
+                        <rect x="11" y="12.4141" width="2" height="6.16676" transform="rotate(-45 11 12.4141)" fill="#7D8595"/>
+                    </svg>
+                    <span class="navigation__search-mobile-text">Search&hellip;</span>
+                </button>
+                <div class="navigation__wrapper">
+                    <div class="navigation__menu">
+                        <ul class="navigation__menu-list">
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/category/environment/" class="navigation__menu-link " >#Environment</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/category/people/" class="navigation__menu-link " >#People</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/category/business/" class="navigation__menu-link " >#Business</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/category/science/" class="navigation__menu-link " >#Science</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/category/ideas/" class="navigation__menu-link " >#Ideas</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/category/fun/" class="navigation__menu-link " >#Fun</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/category/geodev/" class="navigation__menu-link " >#GeoDev</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="/eo-hub/" class="navigation__menu-link  sponsored " >#EO Hub</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="navigation__menu navigation__menu--second">
+                        <ul class="navigation__menu-list navigation__menu-list--second">
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/events/" class="navigation__menu-link" >Events</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/advertise/" class="navigation__menu-link" >Advertise</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="/job-board/" class="navigation__menu-link" >Job board</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/videos/" class="navigation__menu-link" >Videos</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/podcasts/" class="navigation__menu-link" >Podcasts</a>
+                                </li>
+                                                            <li class="navigation__menu-item">
+                                    <a href="https://geoawesomeness.com/community/" class="navigation__menu-link" >About Us</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                <button class="navigation__search-desktop jsShowSearchModal">
+                    <svg width="12" height="12" viewbox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="5" cy="5" r="4.25" stroke="#7D8595" stroke-width="1.5"/>
+                        <rect x="7.86914" y="8.87988" width="1.43074" height="4.4115" transform="rotate(-45 7.86914 8.87988)" fill="#7D8595"/>
+                    </svg>
+                    <span class="navigation__search-desktop-text">Search&hellip;</span>
+                </button>
+            </div>
+            <div class="navigation__footer">
+                <div class="navigation__footer-links">
+                                            <a href="https://geoawesomeness.com/contact-us/" class="navigation__footer-link" >Contact us</a>
+                                            <a href="https://geoawesomeness.com/authors/" class="navigation__footer-link" >Authors</a>
+                                            <a href="https://geoawesomeness.com/gdpr/" class="navigation__footer-link" >GDPR</a>
+                                    </div>
+                <div class="navigation__footer-copyright">
+                    GEOAWESOMENESS 2022
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+    <div class="main__content">
+            <div class="page__main">
+        <div class="container">
+            <div class="page__header">
+                <h1 class="page__title--simple">404</h1>
+                <div class="page__description">
+                    Page not found<br/>
+                    Go back to 
+                    <a href="https://geoawesomeness.com">Home page</a>
+                     or 
+                    <a href="https://geoawesomeness.com/contact-us">Contact Us.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</main>
+
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 optin cmplz-bottom cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Manage Cookie Consent</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="close-dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Functional</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Functional</span></label>
+								</span>
+								Always active							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Preferences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistics</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Statistics</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Manage options</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Manage services</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage vendors</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Read more about these purposes</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accept</button>
+		<button class="cmplz-btn cmplz-deny">Deny</button>
+		<button class="cmplz-btn cmplz-view-preferences">View preferences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Save preferences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">View preferences</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Manage consent</button>
+
+</div><script type='text/javascript' src='http://geoawesomeness.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/geoawesomeness.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://geoawesomeness.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://js.stripe.com/v3/' id='sandhills-stripe-js-v3-js'></script>
+<script type='text/javascript' src='http://geoawesomeness.com/wp-content/plugins/stripe/includes/core/assets/js/vendor/accounting.min.js?ver=4.6.6' id='simpay-accounting-js'></script>
+<script type='text/javascript' src='http://geoawesomeness.com/wp-content/themes/geoawesomeness//public/static/js/jquery-3.6.0.min.js?ver=3.6.0' id='jquery-js'></script>
+<script type='text/javascript' id='simpay-shared-js-extra'>
+/* <![CDATA[ */
+var spGeneral = {"strings":{"currency":"USD","currencySymbol":"$","currencyPosition":"left","decimalSeparator":".","thousandSeparator":",","ajaxurl":"https:\/\/geoawesomeness.com\/wp-admin\/admin-ajax.php","customAmountLabel":"starting at %s","recurringIntervals":{"day":["day","days"],"week":["week","weeks"],"month":["month","months"],"year":["year","years"]},"recurringIntervalDisplay":"%1$s every %2$s %3$s","recurringIntervalDisplayLimitedDiscount":"%1$s every %2$s %3$s for %4$s months then %5$s","recurringIntervalDisplayAutomaticTaxDiscount":"%1$s every %2$s %3$s until coupon expires","recurringIntervalDisplayInvoiceLimit":"%1$d payments of %2$s every %3$s %4$s","recurringIntervalDisplayInvoiceLimitWithCoupon":"%1$d payments of %2$s (for the duration of the coupon) every %3$s %4$s","addressRequired":"Enter address to calculate","addressInvalid":"Please enter a valid address"},"booleans":{"isTestMode":false,"isZeroDecimal":false,"scriptDebug":false},"i18n":{"mediaTitle":"Insert Media","mediaButtonText":"Use Image"},"integers":{"decimalPlaces":2,"minAmount":1}};
+var spGeneral = {"strings":{"currency":"USD","currencySymbol":"$","currencyPosition":"left","decimalSeparator":".","thousandSeparator":",","ajaxurl":"https:\/\/geoawesomeness.com\/wp-admin\/admin-ajax.php","customAmountLabel":"starting at %s","recurringIntervals":{"day":["day","days"],"week":["week","weeks"],"month":["month","months"],"year":["year","years"]},"recurringIntervalDisplay":"%1$s every %2$s %3$s","recurringIntervalDisplayLimitedDiscount":"%1$s every %2$s %3$s for %4$s months then %5$s","recurringIntervalDisplayAutomaticTaxDiscount":"%1$s every %2$s %3$s until coupon expires","recurringIntervalDisplayInvoiceLimit":"%1$d payments of %2$s every %3$s %4$s","recurringIntervalDisplayInvoiceLimitWithCoupon":"%1$d payments of %2$s (for the duration of the coupon) every %3$s %4$s","addressRequired":"Enter address to calculate","addressInvalid":"Please enter a valid address"},"booleans":{"isTestMode":false,"isZeroDecimal":false,"scriptDebug":false},"i18n":{"mediaTitle":"Insert Media","mediaButtonText":"Use Image"},"integers":{"decimalPlaces":2,"minAmount":1}};
+var spGeneral = {"strings":{"currency":"USD","currencySymbol":"$","currencyPosition":"left","decimalSeparator":".","thousandSeparator":",","ajaxurl":"https:\/\/geoawesomeness.com\/wp-admin\/admin-ajax.php","customAmountLabel":"starting at %s","recurringIntervals":{"day":["day","days"],"week":["week","weeks"],"month":["month","months"],"year":["year","years"]},"recurringIntervalDisplay":"%1$s every %2$s %3$s","recurringIntervalDisplayLimitedDiscount":"%1$s every %2$s %3$s for %4$s months then %5$s","recurringIntervalDisplayAutomaticTaxDiscount":"%1$s every %2$s %3$s until coupon expires","recurringIntervalDisplayInvoiceLimit":"%1$d payments of %2$s every %3$s %4$s","recurringIntervalDisplayInvoiceLimitWithCoupon":"%1$d payments of %2$s (for the duration of the coupon) every %3$s %4$s","addressRequired":"Enter address to calculate","addressInvalid":"Please enter a valid address"},"booleans":{"isTestMode":false,"isZeroDecimal":false,"scriptDebug":false},"i18n":{"mediaTitle":"Insert Media","mediaButtonText":"Use Image"},"integers":{"decimalPlaces":2,"minAmount":1}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://geoawesomeness.com/wp-content/plugins/stripe/includes/core/assets/js/simpay-public-shared.min.js?ver=4.6.6' id='simpay-shared-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/backbone.min.js' id='backbone-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/geoawesomeness.com\/wp-json\/","nonce":"a7bf45157b","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/api-request.min.js' id='wp-api-request-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/wp-api.min.js' id='wp-api-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/dom-ready.min.js' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/a11y.min.js' id='wp-a11y-js'></script>
+<script type='text/javascript' id='simpay-public-js-extra'>
+/* <![CDATA[ */
+var simplePayForms = [];
+var simplePayForms = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://geoawesomeness.com/wp-content/plugins/stripe/includes/core/assets/js/simpay-public.min.js?ver=4.6.6' id='simpay-public-js'></script>
+<script type='text/javascript' id='wpcf7cf-scripts-js-extra'>
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/geoawesomeness.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://geoawesomeness.com/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.3.2' id='wpcf7cf-scripts-js'></script>
+<script type='text/javascript' id='app-script-js-extra'>
+/* <![CDATA[ */
+var global = {"theme_url":"\/home\/wp_sbr4u6\/geoawesomeness.com\/wp-content\/themes\/geoawesomeness\/","ajax_url":"https:\/\/geoawesomeness.com\/wp-admin\/admin-ajax.php","security":"71b56c7c3e","recaptcha_site_key":"6LcUqm0eAAAAAKnT3eXmm0BIiaN_7SBM3Lgm7Iv1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://geoawesomeness.com/wp-content/themes/geoawesomeness//public/dist/js/front.js?ver=1674920243' id='app-script-js'></script>
+<script type='text/javascript' id='cmplz-cookiebanner-js-extra'>
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"18","version":"6.4.0","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/geoawesomeness.com\/wp-json\/complianz\/v1\/","locale":"lang=en&locale=en_US","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"16","cookie_path":"\/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"https:\/\/geoawesomeness.com\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=18","page_links":{"eu":{"cookie-statement":{"title":"Cookie Policy ","url":"https:\/\/geoawesomeness.com\/cookie-policy-eu\/"},"privacy-statement":{"title":"GDPR","url":"https:\/\/geoawesomeness.com\/gdpr\/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":""};
+/* ]]> */
+</script>
+<script defer type='text/javascript' src='http://geoawesomeness.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=6.4.0' id='cmplz-cookiebanner-js'></script>
+				<script type="text/plain" data-service="google-analytics" async data-category="statistics" data-cmplz-src="https://www.googletagmanager.com/gtag/js?id=UA-30205660-1"></script><!-- Statistics script Complianz GDPR/CCPA -->
+						<script type="text/plain" data-category="statistics">window['gtag_enable_tcf_support'] = false;
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-30205660-1', {
+	cookie_flags:'secure;samesite=none',
+	
+});
+</script>   <!-- Fathom - beautiful, simple website analytics -->
+      <script src="https://protected-knowing.geoawesomeness.com/script.js" site="XDXZLFDJ" data-no-minify=""></script>
+      <!-- / Fathom -->
+   	<script type="text/plain" data-service="jetpack-statistics" data-category="statistics" data-cmplz-src='https://stats.wp.com/e-202304.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'208227532',post:'0',tz:'1',srv:'geoawesomeness.com',j:'1:11.7.1'} ]);
+		_stq.push([ 'clickTrackerInit', '208227532', '0' ]);
+	</script>
+</body>
+</html>

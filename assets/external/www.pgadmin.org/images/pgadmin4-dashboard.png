@@ -1,0 +1,258 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google Tag Manager -->
+    <script>
+    var DNT = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack || window.msDoNotTrack;
+    if ((DNT != "1") && (DNT != "yes")) {
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WCFG9CD');
+    }
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Template rendered: 28th January 2023 15:37:56 -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="pgAdmin - PostgreSQL Tools for Windows, Mac, Linux and the Web">
+    <meta name="author" content="Dave Page">
+    <link rel="icon" href="/static/COMPILED/assets/img/favicon.ico">
+
+    <title>Page Not Found</title>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+        .filter-white {
+            filter: brightness(0) invert(1);
+        }
+        .icon-postgres-alt-0 {
+            background: url("/static/COMPILED/assets/img/postgres-alt.svg");
+            display: inline-block;
+            vertical-align: middle;
+            font-size: inherit;
+            color: #fff;
+            height: 1.5em;
+            width: 1.5em;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
+
+    <link rel="stylesheet" href="/static/COMPILED/assets/css/main.css?ffffffff" />
+
+    <script>
+        var cb = function () {
+            var l = document.createElement('link');
+            l.rel = 'stylesheet';
+            l.href = '/static/COMPILED/assets/css/main_uncritical.css?ffffffff';
+            var h = document.getElementsByTagName('head')[0];
+            h.parentNode.insertBefore(l, h);
+        };
+        var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+            webkitRequestAnimationFrame || msRequestAnimationFrame;
+        if (raf) raf(cb);
+        else window.addEventListener('load', cb);
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <a class="github-fork-ribbon right-bottom fixed" href="https://github.com/pgadmin-org/pgadmin4" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+
+    <div>
+        <!-- Fixed navbar -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar-fixed-top">
+            <a class="navbar-brand" href="/"><div class="icon-postgres-alt-0 filter-white mr-1"></div> pgAdmin</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="navbar-nav mr-auto">
+                    <!-- Home menu -->
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
+                           aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
+                        <div class="dropdown-menu" aria-labelledby="category-dropdown">
+                            <a class="dropdown-item" href="/">Introduction</a>
+                            <a class="dropdown-item" href="/faq/">FAQ</a>
+                            <a class="dropdown-item" href="/features/">Features</a>
+                            <a class="dropdown-item" href="/news/">News Archive</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/contributing/">Contributing</a>
+                            <a class="dropdown-item" href="/licence/">Licence</a>
+                            <a class="dropdown-item" href="/privacy_policy/">Privacy Policy</a>
+                        </div>
+                    </li>
+
+                    <!-- Development menu -->
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
+                           aria-haspopup="true" aria-expanded="false">Development <span class="caret"></span></a>
+                        <div class="dropdown-menu" aria-labelledby="category-dropdown">
+                            <a class="dropdown-item" href="/development/">Introduction</a>
+                            <a class="dropdown-item" href="/development/resources/">Resources</a>
+                            <a class="dropdown-item" href="/styleguide/typography/">Style Guide</a>
+                            <a class="dropdown-item" href="/development/translations/">Translations</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/development/team/">Team</a>
+                        </div>
+                    </li>
+
+                    <!-- Documentation menu -->
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
+                           aria-haspopup="true" aria-expanded="false">Documentation <span class="caret"></span></a>
+                        <div class="dropdown-menu" aria-labelledby="category-dropdown">
+                            <a class="dropdown-item" href="/docs/">Introduction</a>
+                            <a class="dropdown-item" href="/screenshots/">Screenshots</a>
+                            
+                                <a class="dropdown-item" href="/blogs/">Blog Posts</a>
+                            
+                            
+                                <a class="dropdown-item" href="/videos/">Videos</a>
+                            
+                            
+                            
+                            <a class="dropdown-header">pgAdmin 4:</a>
+                            
+                            <a class="dropdown-item"
+                               href="/docs/pgadmin4/6.19/index.html">Version 6.19</a>
+                            
+                            <a class="dropdown-item"
+                               href="/docs/pgadmin4/6.18/index.html">Version 6.18</a>
+                            
+                            <a class="dropdown-item"
+                               href="/docs/pgadmin4/6.17/index.html">Version 6.17</a>
+                            
+                            <a class="dropdown-item"
+                               href="/docs/pgadmin4/6.16/index.html">Version 6.16</a>
+                            
+                            <a class="dropdown-item"
+                               href="/docs/pgadmin4/6.15/index.html">Version 6.15</a>
+                            
+                            <a class="dropdown-item"
+                               href="/docs/pgadmin4/development/index.html">Development</a>
+                            
+                            
+                        </div>
+                    </li>
+
+                    <!-- Download menu -->
+                    <li class="nav-item"><a class="nav-link" href="/download/">Download</a></li>
+
+                    <!-- Support menu -->
+                    <li class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
+                           aria-haspopup="true" aria-expanded="false">Support <span class="caret"></span></a>
+                        <div class="dropdown-menu" aria-labelledby="category-dropdown">
+                            <a class="dropdown-item" href="/support/">Introduction</a>
+                            <a class="dropdown-item" href="/support/list/">Mailing List</a>
+                            <a class="dropdown-item" href="/support/issues/">Issues</a>
+                        </div>
+                    </li>
+
+                </ul>
+
+                <form class="form-inline my-2 my-lg-0" id="search_button">
+                    <button type="button" class="btn btn-default btn-outline-primary" aria-label="Right Align">
+                        <span class="fa fa-search fa-lg pga-toolbar-search" aria-hidden="true"></span>
+                    </button>
+                </form>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    
+<main class="pga-content">
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Action panel -->
+        <div class="col-sm-2 pga-sidebar pga-sidebar-left">
+            <div class="well pga-quicklinks">
+    <h2>Quick Links</h2>
+    <p><a href="/download/"><i class="fa fa-download fa-2x" aria-hidden="true"></i><br />Download</a></p>
+    <p><a href="/faq/"><i class="fa fa-info fa-2x" aria-hidden="true"></i><br />FAQ</a></p>
+    <p><a href="/docs/pgadmin4/latest/index.html"><i class="fa fa-book fa-2x" aria-hidden="true"></i><br />Latest Docs</a></p>
+    <p><a href="/support/"><i class="fa fa-question-circle fa-2x" aria-hidden="true"></i><br />Get Help</a></p>
+    <p><a href="/screenshots/"><i class="fa fa-desktop fa-2x" aria-hidden="true"></i><br />Screenshots</a></p>
+</div>
+
+        </div>
+
+        <!-- Content -->
+        <div class="col-sm-8">
+            
+<h1>Page Not Found (404)</h1>
+
+<p>Looks like the page you requested doesn't exist. Why not try one of the Quick Links on the left, or the menu bar
+    above to find a page with more interesting content?</p>
+
+<pre class="pga-terminal">
+postgres=# SELECT page FROM website WHERE url = '/images/pgadmin4-dashboard.png';
+ page
+------
+(0 rows)
+</pre>
+
+        </div>
+
+        <!-- Ad -->
+        <div class="col-sm-2 pga-sidebar pga-sidebar-right">
+            <div aria-hidden="true">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- pgAdmin Responsive -->
+<ins class="adsbygoogle"
+     style="display:block;min-width:100px;max-width:300px;width:100%;height:600px"
+     data-ad-client="ca-pub-7509009547019933"
+     data-ad-slot="4114194323"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+        </div>
+    </div>
+ </div>
+
+</main>
+
+
+    
+
+    <script src="/static/COMPILED/webp.js?ffffffff"></script>
+    <script src="/static/COMPILED/main.js?ffffffff"></script>
+
+    <script>
+          $('#search_button').click(function(){
+
+            var $form = '<form class="form-inline my-2 my-lg-0" action="/search/" method="get">\
+<input name="q" class="form-control mr-sm-2" type="text" placeholder="Search latest docs" size="20" aria-label="Search">\
+<button class="btn btn-primary my-2 my-sm-0" type="submit"><span class="fa fa-search fa-lg" aria-hidden="true"></span></button>\
+</form>';
+
+            $('#search_button').replaceWith($form);
+          });
+    </script>
+
+
+
+</body>
+</html>
